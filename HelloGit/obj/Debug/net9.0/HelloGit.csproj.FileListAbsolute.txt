@@ -1,0 +1,14 @@
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\bin\Debug\net9.0\HelloGit.exe
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\bin\Debug\net9.0\HelloGit.deps.json
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\bin\Debug\net9.0\HelloGit.runtimeconfig.json
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\bin\Debug\net9.0\HelloGit.dll
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\bin\Debug\net9.0\HelloGit.pdb
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.AssemblyInfoInputs.cache
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.AssemblyInfo.cs
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.csproj.CoreCompileInputs.cache
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.dll
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\refint\HelloGit.dll
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.pdb
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\HelloGit.genruntimeconfig.cache
+C:\Users\jian\source\repos\GitCrashCourse\HelloGit\obj\Debug\net9.0\ref\HelloGit.dll
